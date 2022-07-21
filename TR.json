@@ -237,7 +237,7 @@
   "tribes.polaris": "Polaris",
   "tribes.polaris.info": "{0} kabilesi, tundranın uçsuz bucaksız köşelerinde çağlar boyunca kapana kısıldı. Ama bilinemez Gaami tarafından doğal olmayan buzlu arazilerini, havanın izin verdiğinden daha fazla ileriye taşıyıp yayma gücüyle kutsandılar. \n\nKızaklarının ve Mamoo'larının kuvvetiyle Mistik {0}, bölgeyi buza gömmeye ve araziyi buz gibi bir cennete dönüştürmekte kararlı. \n\n{0} oyuna, etrafındaki araziyi dondurma yeteneğine sahip olan Mooniler ile başlar .",
 
-  "building.capital.owner": "{0}, {1} başkentidir",
+  "building.capital.owner": "{0}, {1} kabilesinin başkentidir",
   "building.capital.owner.former": "{0}, eski {1} imparatorluğunun başkentiydi, şu anda {2} kuvvetleri tarafından kullanılıyor",
   "building.city.owner": "{0}, {1} imparatorluğunun bir şehri",
   "building.village.owner": "Bu, hiçbir kabileye ait olmayan bir köy",
@@ -381,7 +381,7 @@
   "terrain.ice": "Buz",
   "actionbox.building.level": "seviye {0}/{1}",
   "actionbox.tile.roads": "yollar",
-  "actionbox.city": " {0} şehri",
+  "actionbox.city": "Şehir {0}",
   "actionbox.city.level": "svy {0}",
   "actionbox.village": "Köy",
   "actionbox.unit.frozen": "Donmuş {0}",
