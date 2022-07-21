@@ -381,7 +381,7 @@
   "terrain.ice": "Buz",
   "actionbox.building.level": "seviye {0}/{1}",
   "actionbox.tile.roads": "yollar",
-  "actionbox.city": "Şehir {0}",
+  "actionbox.city": "{1} şehri",
   "actionbox.city.level": "svy {0}",
   "actionbox.village": "Köy",
   "actionbox.unit.frozen": "Donmuş {0}",
