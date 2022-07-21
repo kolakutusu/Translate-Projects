@@ -1016,4 +1016,27 @@
   "friendlist.friendshipstate.sentrequest": "Arkadaşlık isteği gönderildi. Cevap bekleniyor.",
   "friendlist.friendshipstate.receivedrequest": "{0} sana arkadaşlık isteği gönderdi. eğer kabul ederseniz, birbirinizi çok oyunculu oyunlara davet edebilirsiniz.",
   "friendlist.friendshipstate.rejected": "Arkadaşlık isteği reddedildi."
+  "technology.names.diplomacy": "Diplomasi",
+
+  "unit.names.cloak": "Ajan",
+
+  "player.abilites.embassy": "Elçilik",
+
+  "player.abilities.capitalvision": "Başkent Görüşü",
+
+  "tooltip.ability.embassy": "Yabancı başkentlerde Elçiliklerin kurulmasına izin verir. Elçilikler, savaşta olmadıkları sürece her iki taraf için gelir sağlar. Eğer barış antlaşmasına sahipsen, gelir iki katına çıkar.",
+
+  "tooltip.ability.capitalvision": "daha önce karşılaştığın tüm kabilelerin başkentlerinin yerini gösterir.",
+
+  "player.abilities.peacetreaty": "Barış Antlaşması",
+
+  "tooltip.ability.peacetreaty": "Başka bir kabileye barış antlaşması teklif edin. \n\nBu işlemi 'Kabile Bilgisi Ekranı'ndan bulabilirsin. ekrana ulaşmak için kabilenin ismine tıkla",
+
+  "unit.abilities.infiltrate": "Sızma",
+
+  "tooltip.ability.infiltrate": "Bu birim şehirlere girip isyan çıkartabilir",
+
+  "unit.abilities.detect": "Tespit Etme",
+
+  "tooltip.ability.detect": "Bu birim çevresindeki görünmez birimleri tespit edebilir",
 }
