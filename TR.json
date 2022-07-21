@@ -1038,4 +1038,8 @@
   "unit.abilities.detect": "Tespit Etme",
 
   "tooltip.ability.detect": "Bu birim çevresindeki görünmez birimleri tespit edebilir",
+  "gamemode.custom": "Yaratıcı", 
+  "onlineview.randommatch.start": "Rastgele bir rakiple oyna",
+  "onlineview.matchmaking": "RASTGELE KARŞILAŞMA",
+  "gamestatus.ruled.bot": "",
 }
