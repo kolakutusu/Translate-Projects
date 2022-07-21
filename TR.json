@@ -1036,7 +1036,6 @@
   "tooltip.ability.infiltrate": "Bu birim şehirlere girip isyan çıkartabilir",
 
   "unit.abilities.detect": "Tespit Etme",
-
   "tooltip.ability.detect": "Bu birim çevresindeki görünmez birimleri tespit edebilir",
   "gamemode.custom": "Yaratıcı", 
   "onlineview.randommatch.start": "Rastgele bir rakiple oyna",
